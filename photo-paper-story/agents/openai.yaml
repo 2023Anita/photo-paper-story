@@ -1,0 +1,4 @@
+interface:
+  display_name: "纸上奇遇"
+  short_description: "用摄影、纸张与手绘连接一个小故事，支持找灵感、口述想法和上传照片改造"
+  default_prompt: "使用 $photo-paper-story 帮我创作摄影与纸面手绘相连的故事图片；如果我还没有想法，请给我一些建议。"
